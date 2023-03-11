@@ -3,7 +3,8 @@
 
 J Shoulder Elbow Surg
 . 2023 Feb 17;S1058-2746(23)00088-5. doi: 10.1016/j.jse.2023.01.022. Online ahead of print.
-Two-Year Outcomes of the Reverse Humeral Reconstruction Prosthesis
+#Two-Year Outcomes of the Reverse Humeral Reconstruction Prosthesis
+
 Ramesh C Srinivasan 1, Jonathan O Wright 1, Kevin A Hao 2, Joseph J King 1, Bradley S Schoch 3, Kevin W Farmer 1, Aimee M Struk 1, Christopher P Roche 4, Thomas W Wright 5
 Affiliations expand
 PMID: 36804025 DOI: 10.1016/j.jse.2023.01.022
@@ -19,10 +20,11 @@ Discussion: This data demonstrates that the RHRP resulted in significant improve
 
 J Shoulder Elbow Surg
 . 2023 Jan 31;S1058-2746(23)00065-4. doi: 10.1016/j.jse.2023.01.010. Online ahead of print.
-Aseptic Glenoid Baseplate Loosening after Reverse Total Shoulder Arthroplasty with a Single Prosthesis
+#Aseptic Glenoid Baseplate Loosening after Reverse Total Shoulder Arthroplasty with a Single Prosthesis
 Lauren Schell 1, Christopher P Roche 2, Josef K Eichinger 1, Pierre Henri Flurin 3, Thomas W Wright 4, Joseph D Zuckerman 5, Richard J Friedman 6
 Affiliations expand
 PMID: 36736657 DOI: 10.1016/j.jse.2023.01.010
+
 Abstract
 Introduction: Early reverse total shoulder arthroplasty (rTSA) designs had high failure rates, mainly from loosening of the glenoid baseplate. The purpose of this study is to determine the incidence of aseptic glenoid baseplate loosening after primary rTSA using a contemporary medialized glenoid/lateralized humeral system and identify significant risk factors associated with loosening.
 
@@ -36,7 +38,8 @@ Conclusion: The incidence of aseptic glenoid baseplate loosening was 0.74% for t
 
 J Shoulder Elbow Surg
 . 2023 Jan 30;S1058-2746(23)00053-8. doi: 10.1016/j.jse.2022.12.026. Online ahead of print.
-Impact of Accumulating Risk Factors on the Acromial and Scapular Fracture Rate after Reverse Total Shoulder Arthroplasty with a Medialized Glenoid/Lateralized Humerus Onlay Prosthesis
+
+#Impact of Accumulating Risk Factors on the Acromial and Scapular Fracture Rate after Reverse Total Shoulder Arthroplasty with a Medialized Glenoid/Lateralized Humerus Onlay Prosthesis
 Christopher P Roche 1, Wen Fan 2, Ryan Simovitch 3, Thomas Wright 4, Pierre-Henri Flurin 5, Joseph D Zuckerman 6, Howard Routman 7
 Affiliations expand
 PMID: 36731625 DOI: 10.1016/j.jse.2022.12.026
