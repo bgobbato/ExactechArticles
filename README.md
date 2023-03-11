@@ -1,9 +1,9 @@
 # ExactechArticles
- Articles from Exactech
+** Articles from Exactech**
 
 J Shoulder Elbow Surg
 . 2023 Feb 17;S1058-2746(23)00088-5. doi: 10.1016/j.jse.2023.01.022. Online ahead of print.
-##Two-Year Outcomes of the Reverse Humeral Reconstruction Prosthesis
+## Two-Year Outcomes of the Reverse Humeral Reconstruction Prosthesis
 
 Ramesh C Srinivasan 1, Jonathan O Wright 1, Kevin A Hao 2, Joseph J King 1, Bradley S Schoch 3, Kevin W Farmer 1, Aimee M Struk 1, Christopher P Roche 4, Thomas W Wright 5
 Affiliations expand
@@ -20,7 +20,8 @@ Discussion: This data demonstrates that the RHRP resulted in significant improve
 
 J Shoulder Elbow Surg
 . 2023 Jan 31;S1058-2746(23)00065-4. doi: 10.1016/j.jse.2023.01.010. Online ahead of print.
-##Aseptic Glenoid Baseplate Loosening after Reverse Total Shoulder Arthroplasty with a Single Prosthesis
+## Aseptic Glenoid Baseplate Loosening after Reverse Total Shoulder Arthroplasty with a Single Prosthesis
+
 Lauren Schell 1, Christopher P Roche 2, Josef K Eichinger 1, Pierre Henri Flurin 3, Thomas W Wright 4, Joseph D Zuckerman 5, Richard J Friedman 6
 Affiliations expand
 PMID: 36736657 DOI: 10.1016/j.jse.2023.01.010
@@ -39,7 +40,8 @@ Conclusion: The incidence of aseptic glenoid baseplate loosening was 0.74% for t
 J Shoulder Elbow Surg
 . 2023 Jan 30;S1058-2746(23)00053-8. doi: 10.1016/j.jse.2022.12.026. Online ahead of print.
 
-#Impact of Accumulating Risk Factors on the Acromial and Scapular Fracture Rate after Reverse Total Shoulder Arthroplasty with a Medialized Glenoid/Lateralized Humerus Onlay Prosthesis
+# Impact of Accumulating Risk Factors on the Acromial and Scapular Fracture Rate after Reverse Total Shoulder Arthroplasty with a Medialized Glenoid/Lateralized Humerus Onlay Prosthesis
+
 Christopher P Roche 1, Wen Fan 2, Ryan Simovitch 3, Thomas Wright 4, Pierre-Henri Flurin 5, Joseph D Zuckerman 6, Howard Routman 7
 Affiliations expand
 PMID: 36731625 DOI: 10.1016/j.jse.2022.12.026
@@ -55,7 +57,7 @@ Conclusion: This 9,079 rTSA multi-center study demonstrated that 1.52% of patien
 
 J Shoulder Elbow Surg
 . 2023 Jan 18;S1058-2746(23)00027-7. doi: 10.1016/j.jse.2022.12.018. Online ahead of print.
-Longitudinal Analysis of Shoulder Arthroplasty Utilization, Clinical Outcomes, and Value: a Comparative Assessment of Changes in Improvement Over 15 Years with a Single Platform Shoulder Prosthesis
+# Longitudinal Analysis of Shoulder Arthroplasty Utilization, Clinical Outcomes, and Value: a Comparative Assessment of Changes in Improvement Over 15 Years with a Single Platform Shoulder Prosthesis
 Christopher P Roche 1, Richard Jones 2, Howard Routman 3, Yann Marczuk 4, Pierre-Henri Flurin 5, Thomas W Wright 6, Joseph D Zuckerman 7
 Affiliations expand
 PMID: 36681103 DOI: 10.1016/j.jse.2022.12.018
@@ -71,7 +73,7 @@ Conclusion: Our 6,042-patient longitudinal analysis quantified numerous changes 
 
 J Am Acad Orthop Surg
 . 2023 Jan 15;31(2):97-105. doi: 10.5435/JAAOS-D-22-00234. Epub 2022 Oct 24.
-The Shoulder Arthroplasty Smart Score Correlates Well With Legacy Outcome Scores Without a Ceiling Effect
+# The Shoulder Arthroplasty Smart Score Correlates Well With Legacy Outcome Scores Without a Ceiling Effect
 Joseph J King 1, Logan Wright, Kevin A Hao, Christopher Roche, Thomas W Wright, Terrie Vasilopoulos, Joseph D Zuckerman, Pierre-Henri Flurin, Bradley S Schoch
 Affiliations expand
 PMID: 36580051 DOI: 10.5435/JAAOS-D-22-00234
@@ -88,7 +90,7 @@ Conclusion: The SAS score correlates well with legacy shoulder scores after prim
 
 Eur J Orthop Surg Traumatol
 . 2022 Nov 27. doi: 10.1007/s00590-022-03446-1. Online ahead of print.
-Surgeon confidence in planning total shoulder arthroplasty improves after consulting a clinical decision support tool
+# Surgeon confidence in planning total shoulder arthroplasty improves after consulting a clinical decision support tool
 Chelsey S Simmons 1, Christopher Roche 2, Bradley S Schoch 3, Moby Parsons 4, William R Aibinder 5
 Affiliations expand
 PMID: 36436090 DOI: 10.1007/s00590-022-03446-1
@@ -105,7 +107,7 @@ Conclusion: The addition of CDST reports to preoperative planning for anatomic a
 
 J Shoulder Elbow Surg
 . 2022 Nov 16;S1058-2746(22)00826-6. doi: 10.1016/j.jse.2022.10.015. Online ahead of print.
-Augmented baseplates yield optimum outcomes when compared with bone graft augmentation for managing glenoid deformity during reverse total shoulder arthroplasty: a retrospective comparative study
+# Augmented baseplates yield optimum outcomes when compared with bone graft augmentation for managing glenoid deformity during reverse total shoulder arthroplasty: a retrospective comparative study
 Christopher A Colasanti 1, Charles C Lin 2, Keir A Ross 2, Tyler Luthringer 2, Josie A Elwell 3, Christopher P Roche 3, Mandeep S Virk 2, Ryan W Simovitch 4, Howard D Routman 5, Joseph D Zuckerman 2
 Affiliations expand
 PMID: 36400341 DOI: 10.1016/j.jse.2022.10.015
@@ -120,7 +122,7 @@ Conclusion: The present midterm clinical and radiographic study demonstrates tha
 
 J Am Acad Orthop Surg
 . 2022 Oct 1;30(19):941-948. doi: 10.5435/JAAOS-D-22-00014.
-Comparison of Reverse and Anatomic Total Shoulder Arthroplasty in Patients With an Intact Rotator Cuff and No Previous Surgery
+# Comparison of Reverse and Anatomic Total Shoulder Arthroplasty in Patients With an Intact Rotator Cuff and No Previous Surgery
 Richard J Friedman 1, Bradley S Schoch, Josef Karl Eichinger, Garrett B Neel, Marissa L Boettcher, Pierre-Henri Flurin, Thomas W Wright, Joseph D Zuckerman, Christopher Roche
 Affiliations expand
 PMID: 36135928 DOI: 10.5435/JAAOS-D-22-00014
@@ -137,7 +139,7 @@ Conclusion: At a mean of 41 month follow-up, primary aTSA and rTSA patients with
 
 J Shoulder Elbow Surg
 . 2023 Feb;32(2):302-309. doi: 10.1016/j.jse.2022.07.007. Epub 2022 Aug 20.
-Early clinical outcomes following navigation-assisted baseplate fixation in reverse total shoulder arthroplasty: a matched cohort study
+# Early clinical outcomes following navigation-assisted baseplate fixation in reverse total shoulder arthroplasty: a matched cohort study
 Russell E Holzgrefe 1, Kevin A Hao 2, Eric J Panther 2, Bradley S Schoch 3, Christopher P Roche 4, Joseph J King 5, Jonathan O Wright 5, Thomas W Wright 5
 Affiliations expand
 PMID: 35998780 DOI: 10.1016/j.jse.2022.07.007
@@ -153,7 +155,7 @@ Conclusion: At early follow-up, navigated and non-navigated RSAs yielded similar
 
 Multicenter Study J Shoulder Elbow Surg
 . 2022 Dec;31(12):2488-2496. doi: 10.1016/j.jse.2022.04.025. Epub 2022 Jun 6.
-Reverse shoulder arthroplasty with and without baseplate wedge augmentation in the setting of glenoid deformity and rotator cuff deficiency-a multicenter investigation
+# Reverse shoulder arthroplasty with and without baseplate wedge augmentation in the setting of glenoid deformity and rotator cuff deficiency-a multicenter investigation
 Jay M Levin 1, Steven Bokshan 1, Christopher P Roche 2, Joseph D Zuckerman 3, Thomas Wright 4, Pierre-Henri Flurin 5, Christopher S Klifto 1, Oke Anakwenze 6
 Affiliations expand
 PMID: 35671926 DOI: 10.1016/j.jse.2022.04.025
@@ -169,7 +171,7 @@ Conclusion: In comparing augments to standard nonaugment baseplates in the setti
 
 Multicenter Study J Shoulder Elbow Surg
 . 2022 Sep;31(9):1789-1795. doi: 10.1016/j.jse.2022.02.014. Epub 2022 Mar 22.
-Side-to-side differences in postoperative function and patient satisfaction after bilateral total shoulder arthroplasties
+# Side-to-side differences in postoperative function and patient satisfaction after bilateral total shoulder arthroplasties
 Ashley M B Suttmiller 1, Josie A Elwell 2, Christopher Roche 2, Bradley C Carofino 3
 Affiliations expand
 PMID: 35331855 DOI: 10.1016/j.jse.2022.02.014
@@ -186,7 +188,7 @@ Conclusions: Most patients who undergo bilateral TSAs can expect similar outcome
 
 J Shoulder Elbow Surg
 . 2022 Aug;31(8):1647-1657. doi: 10.1016/j.jse.2022.01.142. Epub 2022 Mar 2.
-Characteristics of anatomic and reverse total shoulder arthroplasty patients who achieve ceiling scores with 3 common patient-reported outcome measures
+# Characteristics of anatomic and reverse total shoulder arthroplasty patients who achieve ceiling scores with 3 common patient-reported outcome measures
 Bradley S Schoch 1, Joseph J King 2, Wen Fan 3, Pierre-Henri Flurin 4, Thomas W Wright 2, Joseph D Zuckerman 5, Christopher P Roche 6
 Affiliations expand
 PMID: 35247571 DOI: 10.1016/j.jse.2022.01.142
@@ -200,7 +202,7 @@ Results: aTSA patients achieved ceiling scores at a significantly greater rate t
 Discussion: Postoperative ceiling scores occur at a high rate for aTSA and rTSA patients with the SST, ASES, and UCLA scores. Those most susceptible to ceiling scores are aTSA patients treated with cage glenoids, aTSA patients of lower body mass index, rTSA patients of male gender, rTSA patients with osteoarthritis diagnosis, and rTSA patients with subscapularis repair. Clinical researchers should consider using alternative scores, such as the SAS score, to ensure a more normalized distribution of data and more accurately quantify aTSA and rTSA outcomes.
 
 
-Reverse Shoulder Arthroplasty Biomechanics
+# Reverse Shoulder Arthroplasty Biomechanics
 by Christopher P. RocheORCID
 Exactech, Inc., Gainesville, FL 32653, USA
 J. Funct. Morphol. Kinesiol. 2022, 7(1), 13; https://doi.org/10.3390/jfmk7010013
